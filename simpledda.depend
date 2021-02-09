@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609313051 source:c:\users\abhishek jasrotia\desktop\opengl\simpledda\main.cpp
+	<iostream>
+	<gl/glut.h>
+	<gl/glu.h>
+	<math.h>
+	<stdlib.h>
+
